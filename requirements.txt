@@ -1,0 +1,13 @@
+langgraph 
+langsmith
+langchain
+openai
+langchain-community
+langchain-openai
+gradio
+google-generativeai
+langchain-groq
+langchain-ollama
+langchain-deepseek
+ipython 
+ipykernel
