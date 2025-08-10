@@ -1,0 +1,144 @@
+Name:
+Rhea Sharma
+
+Bio:
+Rhea Sharma is a dynamic Indian entrepreneur and visionary in the field of artificial intelligence. As the founder and CEO of Indian AI Production, he has played a pivotal role in driving the adoption of agentic AI solutions for businesses across India and Southeast Asia. Rhea is widely respected for his ability to turn complex AI technologies into practical, profitable, and ethical business solutions.
+
+Personal Details:
+Age: 38
+Date of Birth: 14th August 1986
+Height: 5’10” (178 cm)
+Eye Color: Brown
+Hair: Black, short
+Nationality: Indian
+Languages: English, Hindi
+Marital Status: Married
+Spouse: Priya Sharma
+Children: Aarav (son, age 8), Riya (daughter, age 5)
+Current Residence: New Delhi, India
+
+Family Background:
+Rhea comes from an academically inclined family in North India. His father, Dr. Prakash Sharma, is a retired university professor, while his mother, Anita Sharma, is a librarian. His younger sister, Sneha, is a software engineer currently working in Singapore. Rhea credits his parents for instilling in him a strong work ethic and a love for learning, and he maintains close ties with his family.
+
+Education:
+
+MBA in Business Analytics, Indian Institute of Management (IIM) Bangalore
+
+B.Tech in Computer Science, Delhi Technological University (DTU)
+
+Certificate in Executive Leadership, Harvard Business School (Online)
+
+Professional Experience:
+
+Founder & CEO, Indian AI Production, New Delhi (2016–Present)
+
+Head of AI Product Strategy, NexGen Digital (2012–2016)
+
+Senior AI Consultant, VisionWare Tech (2008–2012)
+
+Key Achievements:
+
+Designed an AI-driven automation platform that improved process efficiency by 45% for large enterprises.
+
+Led the deployment of over 50 custom AI solutions for finance, healthcare, logistics, education, and retail sectors.
+
+Filed three patents related to agentic AI workflows and business automation.
+
+Successfully raised $8 million in venture funding for Indian AI Production’s R&D expansion in 2022.
+
+Recognized by Forbes India as a top emerging AI business leader in 2024.
+
+Delivered keynote speeches at India AI Expo, Future Tech Summit, Global Digital Leaders Forum, and Asia Business Automation Conference.
+
+Published thought leadership articles in Economic Times, YourStory, and DataQuest.
+
+Technical Expertise:
+
+Agentic AI architectures (LangGraph, LangChain, CrewAI)
+
+AI/ML model deployment (AWS, GCP, Azure)
+
+API integrations and workflow automation
+
+Data engineering (Python, SQL, Spark)
+
+Product management and business strategy
+
+Team building and leadership
+
+Board Memberships & Social Initiatives:
+
+Board Member, India Artificial Intelligence Society
+
+Mentor, Startup India AI Incubator
+
+Founder, “AI for Schools” initiative, providing free AI workshops for students in under-resourced areas
+
+Advisory Panelist, Digital Transformation India Initiative
+
+Volunteer, Literacy India – supporting digital learning for rural youth
+
+Awards & Recognitions:
+
+Forbes India: “Top 20 AI Leaders to Watch” (2024)
+
+Nasscom AI Trailblazer Award (2023)
+
+DataQuest “Innovation in Automation” Award (2022)
+
+Economic Times “Young Disruptor” (2020)
+
+Notable Clients & Projects:
+
+Led Indian AI Production’s partnership with a leading pan-India logistics firm to automate shipment tracking, resulting in 30% reduction in operational errors
+
+Deployed a multi-agent customer support bot system for a national banking network, enhancing customer satisfaction by 25%
+
+Developed AI-powered inventory optimization platform for a major retail chain, saving an estimated $2M in annual costs
+
+Publications & Media Features:
+
+“Agentic AI for the Real World: India’s Path Forward,” Economic Times, 2024
+
+“Building Trustworthy AI Agents,” YourStory, 2023
+
+Featured in CNBC-TV18 special segment: “Digital India: Pioneers in AI Automation”
+
+Guest columnist for DataQuest and AI Digest
+
+Vision for the Future:
+Rhea’s vision is to make India a global hub for ethical and scalable AI automation. He is dedicated to creating opportunities for young talent and believes that accessible AI education can transform India’s economy and society.
+
+Hobbies & Interests:
+
+Playing tennis and chess
+
+Traveling across India and Southeast Asia
+
+Amateur photography (cityscapes, nature)
+
+Collecting rare books on science and innovation
+
+Cooking regional Indian dishes with family
+
+Personality Traits:
+
+Analytical and curious
+
+Collaborative leader
+
+Empathetic mentor
+
+Resilient in facing challenges
+
+Passionate about lifelong learning
+
+Contact:
+Email: rhea.sharma@indianaiproduction.com (fictional)
+LinkedIn: linkedin.com/in/rhea-sharma-ai (fictional)
+
+Fun Fact:
+Rhea is left-handed and once built his first AI project in college to help his visually impaired friend read textbooks aloud.
+
+Favorite Quote:
+“Great innovation comes not from machines, but from the minds that dare to dream beyond them.”

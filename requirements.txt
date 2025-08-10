@@ -11,3 +11,4 @@ langchain-ollama
 langchain-deepseek
 ipython 
 ipykernel
+langchain-tavily
