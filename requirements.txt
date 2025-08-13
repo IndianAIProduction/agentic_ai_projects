@@ -12,3 +12,8 @@ langchain-deepseek
 ipython 
 ipykernel
 langchain-tavily
+langchain_google_genai
+langchain-google-vertexai
+langchain-mistralai
+langchain-anthropic # we don't have subscription
+langchain-xai
