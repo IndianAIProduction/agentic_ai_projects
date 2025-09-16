@@ -17,3 +17,4 @@ langchain-google-vertexai
 langchain-mistralai
 langchain-anthropic # we don't have subscription
 langchain-xai
+langgraph-checkpoint-sqlite
