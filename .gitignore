@@ -3,3 +3,7 @@ venv
 
 ## files
 .env
+
+## VDB index
+data/faiss_vdb/index.faiss
+data/faiss_vdb/index.pkl

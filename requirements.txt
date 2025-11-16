@@ -18,3 +18,6 @@ langchain-mistralai
 langchain-anthropic # we don't have subscription
 langchain-xai
 langgraph-checkpoint-sqlite
+bs4
+pypdf
+faiss-cpu
