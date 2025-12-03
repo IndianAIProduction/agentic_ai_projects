@@ -21,3 +21,5 @@ langgraph-checkpoint-sqlite
 bs4
 pypdf
 faiss-cpu
+nltk
+langchain_experimental
